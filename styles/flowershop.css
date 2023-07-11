@@ -89,6 +89,41 @@ margin-bottom: 24px;
 #img {
     margin-right: 25px;
 }
+/* fourth section related styles */
+.fourth-section {
+   
+    margin: 150px 260px;
+    padding: 185px 300px 230px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    
+}
+.section-title2 {
+    
+    font-size: 40px;
+   text-align: center;
+   display: flex;
+   padding-left: 250px;
+   margin-bottom: 0;
+    
+   
+}
+.content {
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+}
+#email {
+    height: 50px;
+    width: 700px;
+    border-radius: 8px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    
+}
+
+
 
 
 /* footer related styles */
