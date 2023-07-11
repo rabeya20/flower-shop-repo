@@ -92,7 +92,7 @@ margin-bottom: 24px;
 /* fourth section related styles */
 .fourth-section {
    
-    margin: 150px 260px;
+    margin: 150px 260px 0;
     padding: 185px 300px 230px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -123,8 +123,32 @@ font-size: 18px;
     
 }
 
-
-
-
 /* footer related styles */
 
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 100px 700px 200px;
+    margin-top: 0;
+
+}
+.footer-title {
+    
+font-size: 48px;
+margin-bottom: 0;
+}
+.f {
+    color: #E55473;
+}
+.s {
+    color: white;
+}
+.footer-description {
+    color: white;
+    font-size: 18px;
+
+}
+.down-content {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+}
