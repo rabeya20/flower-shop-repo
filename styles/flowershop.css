@@ -68,6 +68,27 @@ margin-bottom: 24px;
     color: #E55473;
 
 }
+/* third section related styles */
+
+.third-section {
+    text-align: center;
+    margin-top: 100px;
+}
+.instra-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+    padding:  0 600px;
+
+}
+.section-img {
+    
+    margin:48px
+}
+#img {
+    margin-right: 25px;
+}
 
 
 /* footer related styles */
